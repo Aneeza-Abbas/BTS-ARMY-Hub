@@ -1,0 +1,32 @@
+BTS ARMY HUB — IMAGE CREDITS & LICENCES
+
+The concert gallery uses real BTS performance photographs hosted by Wikimedia Commons. The website references the files directly using Wikimedia Commons Special:FilePath, so an internet connection is required to display them.
+
+1) BTSPTDonStageDay2.jpg
+   Description: BTS during the second day of Permission to Dance on Stage, 28 November 2021.
+   Author: Toda
+   Licence: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+   Source / file page: https://commons.wikimedia.org/wiki/File:BTSPTDonStageDay2.jpg
+   Licence: https://creativecommons.org/licenses/by-sa/4.0/
+
+2) BTS_in_concert_at_Wembley_Stadium,_2_June_2019_02.jpg
+   Description: BTS in concert at Wembley Stadium, 2 June 2019.
+   Author: NenehTrainer
+   Licence: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+   Source / file page: https://commons.wikimedia.org/wiki/File:BTS_in_concert_at_Wembley_Stadium,_2_June_2019_02.jpg
+   Licence: https://creativecommons.org/licenses/by/3.0/
+
+3) BTS_in_concert_at_Wembley_Stadium,_2_June_2019_03.jpg
+   Description: BTS in concert at Wembley Stadium, 2 June 2019.
+   Author: NenehTrainer
+   Licence: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+   Source / file page: https://commons.wikimedia.org/wiki/File:BTS_in_concert_at_Wembley_Stadium,_2_June_2019_03.jpg
+   Licence: https://creativecommons.org/licenses/by/3.0/
+
+Please retain attribution and licence information when reusing the images. Verify each file page before making substantial changes or redistributing images separately.
+
+OTHER IMAGE ASSETS
+Member portraits and album covers are not included. Copy your own image files into /images using the filenames documented in README_IMAGES.txt. The hero image and any external embeds require an internet connection.
+
+DISCLAIMER
+This is an independent fan-made project and is not affiliated with BTS or BIGHIT MUSIC.
